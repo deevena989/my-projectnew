@@ -1,2 +1,7 @@
 what is git?
-git is a version control system. In the name itself 
+
+git is a version control system. In the name itself versioning that helps to track changes the files and its helps to 
+coordinate work between versions of a project's code and its stores the complete history for your projects or your files.
+anytime you can revisit or restore earlier states, experiment safely in branches, and merge work from different contributors.
+
+
